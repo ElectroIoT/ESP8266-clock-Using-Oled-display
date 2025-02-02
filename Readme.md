@@ -16,6 +16,7 @@ This project creates an **Internet-based real-time clock (RTC)** using an **ESP8
 - **Jumper Wires**
 
 ## Circuit Diagram (Wiring)
+![alt_text, width="200"](SC.JPG)
 ### OLED Display (I2C) Connection to ESP8266:
 
 | OLED Pin | ESP8266 Pin |
@@ -145,4 +146,3 @@ This project is open-source and free to use. Feel free to modify and improve it!
 
 
 
-# ESP8266-clock-Using-Oled-display
